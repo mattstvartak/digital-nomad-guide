@@ -121,6 +121,4 @@ Great! Here's your updated **Digital Nomad Destination Guide – 2025**, featuri
 |  9 | Turkey   | \$400–\$800   | Nomad Visa     | East-meets-West, ocean + mountains      |
 | 10 | Brazil   | \$300–\$900   | Nomad Visa     | Tropical coastlines, affordability      |
 
----
 
-Would you like help narrowing these to your top 3 based on climate, internet, language, or community? Or a visual PDF version with maps and photos?
