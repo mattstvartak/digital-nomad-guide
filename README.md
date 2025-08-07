@@ -120,5 +120,19 @@ Great! Here's your updated **Digital Nomad Destination Guide – 2025**, featuri
 |  8 | Mexico   | \$500–\$1,000 | 180-day visa   | Culture, affordability, time zone match |
 |  9 | Turkey   | \$400–\$800   | Nomad Visa     | East-meets-West, ocean + mountains      |
 | 10 | Brazil   | \$300–\$900   | Nomad Visa     | Tropical coastlines, affordability      |
+---
+| 🌆 City                    | 🌐 Internet Speed | 🛂 Visa Type             | 💸 Avg Monthly Cost | 🌦️ Weather                      | 🏞️ Natural Highlights               | 🛡️ Safety & Culture                            |
+| -------------------------- | ----------------- | ------------------------ | ------------------- | -------------------------------- | ------------------------------------ | ----------------------------------------------- |
+| **Lisbon, Portugal**       | 100–200 Mbps      | Digital Nomad Visa       | \~\$3,966           | Mild winters, dry summers        | Atlantic coast, hills, surf beaches  | Safe, expat-friendly, rich food and music scene |
+| **Valencia, Spain**        | 90–100 Mbps       | Digital Nomad Visa       | \~\$3,753           | Hot summers, mild winters        | Mediterranean beaches, orange groves | Safe, artistic, vibrant markets                 |
+| **Ljubljana, Slovenia**    | 70–100 Mbps       | Nomad Visa (2025)        | \~\$3,200           | 4 seasons, snowy winters         | Alpine lakes, rivers, forests        | Extremely safe, eco-friendly, café culture      |
+| **Prague, Czech Republic** | 80–100 Mbps       | Freelancer Visa          | \~\$3,289           | Cold winters, warm summers       | Castles, rivers, parks               | Historic, secure, walkable                      |
+| **Budapest, Hungary**      | 100+ Mbps         | White Card Visa          | \~\$2,697           | Cold winters, hot summers        | Thermal baths, Danube River          | Bohemian, romantic, low cost                    |
+| **Porto, Portugal**        | \~100 Mbps        | Digital Nomad Visa       | \~\$3,288           | Mild rainy winters, cool summers | Douro Valley, beaches, cliffs        | Peaceful, scenic, wine culture                  |
+| **Tbilisi, Georgia**       | 50–80 Mbps        | 1-Year Visa-Free         | \~\$2,190           | Dry summers, cold winters        | Caucasus Mountains, wine country     | Gritty, emerging, very low cost                 |
+| **Split, Croatia**         | 60–90 Mbps        | Nomad Visa               | \~\$3,783           | Hot summers, rainy winters       | Adriatic coast, islands, ruins       | Historic, laid-back, sea-centric                |
+| **Tallinn, Estonia**       | \~90 Mbps         | Nomad Visa + e-Residency | \~\$3,920           | Cold winters, mild summers       | Baltic coast, pine forests           | Tech-savvy, safe, quiet elegance                |
+| **Berlin, Germany**        | 70–100 Mbps       | Freelancer Visa          | \~\$4,292           | True four seasons                | Urban lakes, rivers, parks           | Diverse, artistic, global food scene            |
+
 
 
